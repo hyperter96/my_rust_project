@@ -1,0 +1,143 @@
+{
+	"folders": [
+		{
+			"path": "../../../ch3/ch1_ownership_intro"
+		},
+		{
+			"path": "../../../ch3/ch2_string_str"
+		},
+		{
+			"path": "../../../../run-wasm-app-from-host"
+		},
+		{
+			"path": "../../../../airdrop_project"
+		},
+		{
+			"path": "../../../ch3/ch5_ownership_struct"
+		},
+		{
+			"path": "../../../ch3/ch6_box"
+		},
+		{
+			"path": "../../../ch4/ch3_fn"
+		},
+		{
+			"path": "../../../ch4/ch4_fn_move_borrow_mut"
+		},
+		{
+			"path": "../../../ch4/ch5_fn_back"
+		},
+		{
+			"path": "../../../ch4/ch6_higher_func"
+		},
+		{
+			"path": "../../../ch5/ch1_error"
+		},
+		{
+			"path": "../../../ch5/ch2_quest_unwrap"
+		},
+		{
+			"path": "../../../ch5/ch3_custom_err"
+		},
+		{
+			"path": "../../../ch6/ch1_borrow_check"
+		},
+		{
+			"path": "../../../../lua-interpreter"
+		},
+		{
+			"path": "../../../ch6/ch2_func"
+		},
+		{
+			"path": "../../../ch6/ch3_struct"
+		},
+		{
+			"path": "../../../ch7/ch1_generic_struct"
+		},
+		{
+			"path": "../../../ch7/ch2_func"
+		},
+		{
+			"path": "../../../ch8/ch1_trait"
+		},
+		{
+			"path": "../../../ch8/ch2_trait_box"
+		},
+		{
+			"path": "../../../ch8/ch3_trait_generic"
+		},
+		{
+			"path": "../../../ch8/ch4_add"
+		},
+		{
+			"path": "../../../ch8/ch5_trait"
+		},
+		{
+			"path": "../../../ch8/ch6_trait_common"
+		},
+		{
+			"path": "../../../ch9/ch1_iter_loop"
+		},
+		{
+			"path": "../../../ch9/ch2_intoiterator_iter"
+		},
+		{
+			"path": "../../../ch9/ch3_iter"
+		},
+		{
+			"path": "../../../ch9/ch4_custom_iter"
+		},
+		{
+			"path": "../../ch1_closure"
+		},
+		{
+			"path": "../../ch2_closure_move"
+		},
+		{
+			"path": "../../ch2_closure_foocopy"
+		},
+		{
+			"path": "../../ch3_closure_trait"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../ch11/ch1_box"
+		},
+		{
+			"path": "../../../ch11/ch2_deref"
+		},
+		{
+			"path": "../../../ch11/ch3_drop"
+		},
+		{
+			"path": "../../../ch11/ch4_unsafe_ptr"
+		},
+		{
+			"path": "../../../ch11/ch5_rc_ptr"
+		},
+		{
+			"path": "../../../ch11/ch6_refcell"
+		},
+		{
+			"path": "../../../ch11/ch7_loop_ref"
+		},
+		{
+			"path": "../../../ch11/ch8_weak_ref"
+		},
+		{
+			"path": "../../../ch11/ch9_tree"
+		},
+		{
+			"path": "../../../ch12/ch1_multithreading"
+		},
+		{
+			"path": "../../../ch12/ch2_closure_thread"
+		},
+		{
+			"path": "../../../ch11/ch10_arc_weak"
+		}
+	],
+	"settings": {}
+}
